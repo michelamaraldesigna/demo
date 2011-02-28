@@ -1,4 +1,6 @@
 Demo::Application.routes.draw do
+  resources :posts
+
   resources :pessoas
 
   # The priority is based upon order of creation:
