@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nome: MyString
+  dtnasc: 2011-01-28
+  altura: 1.5
+
+two:
+  nome: MyString
+  dtnasc: 2011-01-28
+  altura: 1.5
